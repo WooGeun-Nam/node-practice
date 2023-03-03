@@ -43,3 +43,5 @@ Node Practice
 
 6. helloweb-ex01 : 웹애플리케이션 만들어 보기(express 프레임워크 x)
 7. helloweb-ex02 : 웹애플리케이션 만들어 보기(express 프레임워크 o)
+
+[node mysite] https://github.com/douzone-bipa/node_practices/tree/main/mysite
