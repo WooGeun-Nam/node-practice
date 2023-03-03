@@ -42,4 +42,4 @@ Node Practice
             $ npm i ../douzone-math
 
 6. helloweb-ex01 : 웹애플리케이션 만들어 보기(express 프레임워크 x)
-6. helloweb-ex02 : 웹애플리케이션 만들어 보기(express 프레임워크 o)
+7. helloweb-ex02 : 웹애플리케이션 만들어 보기(express 프레임워크 o)
